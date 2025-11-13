@@ -36,7 +36,7 @@ Nenhum. Basta um navegador moderno (Chrome, Firefox, Edge, etc.).
     git clone [https://github.com/gJuniordev/piano-web.git](https://github.com/gJuniordev/piano-web.git)
     cd piano-web
     ```
-2.  Abra o arquivo `index.html` em seu navegador.
+2.  Abra o arquivo `index.html` em seu navegador.;
 
 ### Controles
 
